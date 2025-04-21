@@ -39,7 +39,7 @@
 
 ## Output
 ### MechAnalyzer Graph 
-![MechAnalyzer Graph](MechAnalyzer.png)
+![MechAnalyzer](MechAnalyzer.png)
 ### VAD, IC and SFA module
 ![VAD, IC and SFA module](<VAD, IC and SFA module.png>)
 ### Name: **KABELAN G K**
